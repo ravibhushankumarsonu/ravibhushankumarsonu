@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me  
-I am an experienced **Software Engineer with 6.5+ years in designing and developing high-performance systems**. My expertise spans **system design, distributed systems, microservices, big data pipelines, and CI/CD automation**.  
+I am an experienced **Software Engineer with 7.5+ years in designing and developing high-performance systems**. My expertise spans **system design, distributed systems, microservices, big data pipelines, and CI/CD automation**.  
 
 I am passionate about solving complex engineering challenges, improving system efficiency, and building scalable platforms that drive business productivity. With strong problem-solving skills and a collaborative mindset, I thrive in fast-paced, dynamic environments.  
 
@@ -38,10 +38,10 @@ I am passionate about solving complex engineering challenges, improving system e
 ---
 
 ### 🎓 Education  
-- **B.Tech, ECE (Minor in CSE)** — IIT (ISM) Dhanbad | OGPA: 8.35/10  
+- **B.Tech, ECE (Minor in CSE)** — IIT (ISM) Dhanbad
 
 ---
 
 ### 📫 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/ravibhushan-kumar)  
-- [GitHub](https://github.com/yourusername)  
+- [GitHub](https://github.com/ravibhushankumarsonu)  
